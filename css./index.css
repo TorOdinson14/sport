@@ -1,7 +1,10 @@
 body{
 
 }
-
+h2{
+    color: aliceblue;
+    text-align: center;
+}
 
 
 .shapka{
@@ -29,4 +32,9 @@ border-bottom: 2px solid;
 .element_menu{
 display: flex;
 align-items: center;
+}
+
+
+section{
+    background-color: black;
 }
