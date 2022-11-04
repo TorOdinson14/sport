@@ -8,6 +8,12 @@
 
 
 div.video{
-
+padding: 0 10px 0 10px;
   
 }
+
+iframe{
+    width: 250px;
+     height: auto;
+     
+   }

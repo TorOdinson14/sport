@@ -20,7 +20,7 @@ color:rgb(255, 255, 255) ;
     height: 45px;
     display: flex;
     justify-content: space-between;
-
+flex-wrap: wrap;
 border-bottom: 2px solid;
 }
 
