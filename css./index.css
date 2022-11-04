@@ -1,6 +1,13 @@
 body{
-
+background-color: black;
 }
+
+header{
+ 
+   
+}
+
+
 h2{
     color: aliceblue;
     text-align: center;
@@ -16,18 +23,20 @@ color:rgb(255, 255, 255) ;
 }
 
 .scrollmenu{
-    width: 100%;
+  
     height: 45px;
     display: flex;
     justify-content: space-between;
 flex-wrap: wrap;
 border-bottom: 2px solid;
+background-color: rgb(165, 165, 165);
 }
 
 .scrollmenu a{
     font-size: 20px;
     color: black;
 }
+
 
 .element_menu{
 display: flex;
@@ -37,4 +46,20 @@ align-items: center;
 
 section{
     background-color: black;
+}
+
+.parametr{
+    display: flex;
+    justify-content: space-between;
+}
+.parametr{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.parametr li{
+    width: 90px;
+    color: aliceblue;
+    border: 1px solid;
 }
