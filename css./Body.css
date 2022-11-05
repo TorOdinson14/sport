@@ -1,2 +1,27 @@
 
+.flex-content{
+    margin-top: 30px;
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+color: aliceblue;
+}
 
+
+.flex-content div{
+    margin-top: 30px;
+    width: 80%;
+  border: 1px solid;
+}
+
+.Psorias h2{
+   text-align: center;}
+
+.Psorias li,p,h2,h3{
+    padding: 4px 0 0 20px;
+    list-style-type: circle;
+ padding-left: 20px;}
+
+a{
+color: aliceblue;
+}
