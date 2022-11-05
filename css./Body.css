@@ -14,14 +14,10 @@ color: aliceblue;
   border: 1px solid;
 }
 
-.Psorias h2{
+.flex-content div h2{
    text-align: center;}
 
-.Psorias li,p,h2,h3{
+.flex-content div li,p,h2,h3{
     padding: 4px 0 0 20px;
     list-style-type: circle;
  padding-left: 20px;}
-
-a{
-color: aliceblue;
-}

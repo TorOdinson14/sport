@@ -6,8 +6,9 @@
 li{
    list-style-type: none;
 }
-    a{
+    a p{
     text-decoration: none;
+    color: rgb(243, 243, 243);
     }
 
     

@@ -1,0 +1,15 @@
+section td th {
+    color: aliceblue;
+    border: 2px solid;
+border-color: aliceblue;
+    background-color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+}
+tr th{
+
+    border: 1px solid;
+    border-color: aliceblue;
+}
