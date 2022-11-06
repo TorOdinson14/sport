@@ -5,11 +5,42 @@ border-color: aliceblue;
     background-color: aliceblue;
 }
 
-p{
+h4{
     color: aliceblue;
 }
-tr th{
 
-    border: 1px solid;
-    border-color: aliceblue;
+.day{
+    width: 96%;
+    margin-left: auto;
+    margin-right: auto;
+
+    color: aliceblue;
+    border: 3px solid;
+
 }
+
+.day h2{
+    text-align: center;
+
+    }
+.day ul{
+    width: 100px;
+    margin: 5px 5px 5px ;
+}
+    .day li {
+    display: flex;
+    align-items: center;
+       margin-top: 5px;
+        height: 20px;
+      padding: 10px 10px;
+       
+        border-radius: 20px;
+        border: 2px solid;
+        border-color: rgb(133, 133, 133);
+    }
+
+    .list{
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
