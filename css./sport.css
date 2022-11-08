@@ -1,16 +1,10 @@
-section td th {
-    color: aliceblue;
-    border: 2px solid;
-border-color: aliceblue;
-    background-color: aliceblue;
-}
 
 h4{
     color: aliceblue;
 }
 
 .day{
-    width: 96%;
+   
     margin-left: auto;
     margin-right: auto;
 
@@ -26,6 +20,7 @@ h4{
 .day ul{
     width: 100px;
     margin: 5px 5px 5px ;
+
 }
     .day li {
     display: flex;
