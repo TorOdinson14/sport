@@ -46,3 +46,15 @@ h4{
     p{
        font-size: 11px;
     }
+
+
+.centr{
+    display: flex;
+
+    margin-left: auto;
+}
+
+iframe{
+    width: 500px;
+    height: 500px;
+}
